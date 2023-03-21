@@ -51,10 +51,11 @@ button:active {
 }
 
 
-
 body {
-    background-color: #000000;
+    background-color: #000000 !important;
+  
 }
+
 
 ul {
     list-style-type: none;
